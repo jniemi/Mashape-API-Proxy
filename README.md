@@ -12,7 +12,7 @@ We'll push it on GitHub as soon as has been tested properly. We recommend to wai
 
 Requirements
 ============
-The latest version of node.js compiled with SSL support.
+The latest version of node.js installed (compiled with SSL support).
 
 Usage
 -----
